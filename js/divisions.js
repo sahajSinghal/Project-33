@@ -15,4 +15,4 @@ class Divisions {
         fill("white");
         rect(pos.x, pos.y, this.w, this.h);
     }
-};
+}

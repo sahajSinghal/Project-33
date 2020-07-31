@@ -26,4 +26,4 @@ class Plinko {
         pop();
     }
 
-};
+}
